@@ -23,6 +23,6 @@ class Test(unittest.TestCase):
 
 
 if __name__ == "__main__":
-    print ('INICIANDO OS TESTES')
+    print ('INICIANDO OS TESTES NO APP')
     print('----------------------------------------------------------------------')
     unittest.main(verbosity=2)
